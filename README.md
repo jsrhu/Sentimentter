@@ -1,2 +1,2 @@
-# TwitterSentiment
+# Sentimentter
 Twitter Sentiment Engine
